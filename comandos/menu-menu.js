@@ -33,7 +33,7 @@ m.reply(`╭──────────────────
 //no me roben la decoracion, no tengo creatividad
 
 let menuA = `
-*╭━━❍CharlieBot❍━━╮*
+*╭━━❍GoldBot❍━━╮*
 *┃ ╭━━━━━━━━━━━━━━━━╮*
 *┃ ┃ ╭┈────────────╮*
 *┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
@@ -44,7 +44,7 @@ let menuA = `
 *┃┃  ❍ ${ucapan()} ❍*
 *┃┣━━━━━━━━━━━━━━━━╾•*
 *┃┃ ▢ CREADOR DEL BOT:  ${creatorname}*
-*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51994156047 (𝐍𝐎 𝐁𝐎𝐓)*
+*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51931894442 (𝐍𝐎 𝐁𝐎𝐓)*
 *┃┃ ▢ VERSION » ${vs}*
 *┃┃ ▢ FECHA » ${week}, ${date}*
 *┃┃ ▢ TIEMPO ACTIVO » ${uptime}*
