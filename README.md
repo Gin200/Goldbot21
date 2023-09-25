@@ -22,8 +22,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/YioBot2.0
-> cd YioBot2.0
+> git clone https://github.com/Gin200/Goldbot21
+> cd Goldbot21
 > yarn install 
 > npm install
 > npm update
