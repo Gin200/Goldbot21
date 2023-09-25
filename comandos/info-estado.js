@@ -5,12 +5,12 @@ let img = imagen5
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╔═[ *Charlie* ]
+let str = `╔═[ *Goldbot* ]
 ║ *➤ 𝙷𝙾𝙻𝙰 ${taguser}*
 ║
 ║ *=➢ 🤖 TIEMPO ACTIVO:* ${uptime}
-║ *=➢ 👑 CREADOR: Charlie*
-║ *=➢ 🔗 PAGINA OFICIAL:* @emx._xit
+║ *=➢ 👑 CREADOR: Gin*
+║ *=➢ 🔗 PAGINA OFICIAL:* @goldbot_mixto
 ╚════════════════`.trim()
 let buttons = [{ buttonId: '#menu', buttonText: { displayText: ' 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 ✅' }, type: 1 }]
 let buttonMessage = { image: pp, caption: str.trim(), mentions: [m.sender], footer: global.wm, buttons: buttons, headerType: 4, contextInfo: { mentionedJid: [m.sender], externalAdReply: { showAdAttribution: true, mediaType: 'VIDEO', mediaUrl: null, title: 'PÁGINA OFICIAL', body: 'BY @DIEGO-OFC', thumbnail: img, sourceUrl: `https://dorrat-bot-oficial.ml/`}}}
